@@ -42,9 +42,9 @@
 <!-- connect with me  -->
 <h3 align="center"> Connect with me 🚀 </h3>
 <p align="center">
-<a href="https://twitter.com/iamtanmay_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamtanmay_7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamtanmay07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamtanmay07" height="30" width="40" /></a>
-<a href="https://instagram.com/iamtanmey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamtanmey" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tanmey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanmey" height="30" width="40" /></a>
+<a href="https://twitter.com/iamtanmay_7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamtanmay_7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iamtanmay07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamtanmay07" height="30" width="40" /></a>
+<a href="https://instagram.com/iamtanmey" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamtanmey" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tanmey" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanmey" height="30" width="40" /></a>
 </p>
 
